@@ -42,8 +42,8 @@
     ],
     "require": {
         "php": ">= 7.4",
-        "nfephp-org/sped-common": "^5.1.0",
-        "nfephp-org/sped-gtin": "^1.1.0",
+        "acrossit/sped-common": "dev-main",
+        "acrossit/sped-gtin": "dev-main",
         "justinrainbow/json-schema": "^5.2",
         "ext-zlib": "*",
         "ext-dom": "*",
